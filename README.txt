@@ -1,4 +1,4 @@
-The script runs a deep learning model to classify samples in normal or pancreatic ductal adenocarcinoma (PDAC) using gene expression information. The genes use the samples prediction are Keratin 19 (KRT19), Laminin Subunit Gamma 2(LAMC2), Maternal Embryonic Leucine Zipper Kinase (MELK), MET Proto-Oncogene, Receptor Tyrosine Kinase (MET), DNA Topoisomerase II Alpha(TOP2A).
+The script runs a deep learning model (PDAC-ANN) to classify samples in normal or pancreatic ductal adenocarcinoma (PDAC) using gene expression information. The genes use the samples prediction are Keratin 19 (KRT19), Laminin Subunit Gamma 2(LAMC2), Maternal Embryonic Leucine Zipper Kinase (MELK), MET Proto-Oncogene, Receptor Tyrosine Kinase (MET), DNA Topoisomerase II Alpha(TOP2A).
 
 This initiative was built by 
 Leandro Martins de Freitas - leandromartins@ufba.br
