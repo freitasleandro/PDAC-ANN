@@ -5,7 +5,6 @@ The script runs a deep learning model (PDAC-ANN) to classify samples in normal o
 This initiative was built by 
 Leandro Martins de Freitas - leandromartins@ufba.br, 
 Palloma Porto Almeida - palloma.almeida@ufv.br
-, Cristina Padre Cardoso.
 
 
 
